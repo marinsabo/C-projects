@@ -59,5 +59,6 @@ This folder contains assignments from the **Programming I** course at **FERIT** 
    To get started, clone the repository to your local machine with the following command:
 
    ```bash
-   git clone https://github.com/marinsabo/C-projects.git/Programming-I/LV1
+   git clone https://github.com/marinsabo/C-projects.git
+
    ```
