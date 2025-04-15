@@ -11,8 +11,8 @@ void to_lowercase(char* str) {
 }
 
 int main() {
-    char words[10][15] = { "Mjesec", "Banana", "Jastuk", "Plahta", "Laptop",
-                           "Programiranje", "Lampa", "Ormar", "Tepih", "Stol" };
+    char words[10][15] = { "Moon", "Banana", "Pillow", "Sheet", "Laptop",
+                           "Programming", "Light", "Shelf", "Carpet", "Desk" };
     char active_word[15];
     char guess[15];
     int correct_letters[15] = { 0 };
