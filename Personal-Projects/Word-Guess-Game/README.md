@@ -15,7 +15,7 @@ Congrats! You guessed the word.
 
 Here is an example English word list you can use in your code (replaces the original Croatian words):
 ```c
-char words[10][15] = { "Moon", "Banana", "Pillow", "Sheet", "Laptop", "Programming", "Lamp", "Closet", "Carpet", "Table" };
+char words[10][15] = { "Moon", "Banana", "Pillow", "Sheet", "Laptop", "Programming", "Light", "Shelf", "Carpet", "Desk" };
 ```
 You can replace these words with any others of your choice, just make sure they don't exceed 15 characters.
 
@@ -27,4 +27,4 @@ To compile and run the code:
 
 The project uses only standard libraries: `stdio.h`, `stdlib.h`, `string.h`, `time.h`, and `ctype.h`. It's a great little project to get familiar with string manipulation, randomness, and user input in C.
 
-Project created by **Marin Sabo** as part of learning C programming in the Programming I course at FERIT.
+Project created by **Marin Sabo** as part of learning C programming in the Programming I and Programming II course at FERIT.
