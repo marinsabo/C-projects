@@ -1,5 +1,6 @@
 # Number Guess Game – C Project
 A simple terminal-based number guessing game written in C. The program generates a random number between 0 and 100, and the user tries to guess it. After each attempt, the game provides feedback whether the correct number is higher or lower than the guess. The game continues until the user correctly guesses the number, and it also tracks the total number of attempts.
+
 The game starts by generating a random number using the current time as a seed. It prompts the user to enter a guess. If the guess is outside the range of 0 to 100, the program notifies the user. Otherwise, it checks if the guess is too high or too low compared to the generated number and continues looping until the correct number is guessed. Once guessed correctly, the game displays the total number of attempts it took.
 
 Example:
